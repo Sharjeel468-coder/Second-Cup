@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<title>First Website</title>
+<link rel="stylesheet" href="abd.css">
+
+</head>
+<body>
+<h1>Welcome to Imtiaz Crockery Store</h1>
+<h2>Buy crockery in low cost</h2>
+<form action="">
+<div>
+<label for="name">Name</label>
+<input type="name" placeholder="Enter Your Name">
+<br>
+<br>
+<label for="Age">Age</label>
+<select name="Age" id="Age">
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option>15</option>
+<option>16</option>
+</select>
+</div>
